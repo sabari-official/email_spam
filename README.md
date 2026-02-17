@@ -1,7 +1,6 @@
 # MACHINE LEARNING MODEL IMPLEMENTATION
 
 **Email Spam Detection using Predictive Models**
---
 
 ---
 
