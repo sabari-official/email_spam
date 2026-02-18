@@ -121,5 +121,14 @@ Task-4/
 - **Sparse Matrices**: Memory-efficient high-dimensional text representation
 - **Comprehensive Metrics**: Accuracy, precision, recall, F1-score analysis
 - **Confusion Matrix**: Visual identification of false positives/negatives
+
+---
+
+## **Output**
+
+https://github.com/user-attachments/assets/e67e0053-8dbf-4206-822f-47b24f0edc4c
+
+
+---
 - **Reproducible**: Fixed random_state ensures identical results
 - **Interactive**: Step-by-step cell execution with live output
